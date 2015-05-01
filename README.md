@@ -7,10 +7,10 @@ Simple library for CodeIgniter framework 3.0 to locate ip by online ipinfodb.com
 ##Instructions:
 
 ####IMPORTANTE
-Primero debes crearte una cuenta gratis en http://api.ipinfodb.com y obtener una clave y cambiar el valor de $_key en la clase
+Primero debes crearte una cuenta gratis en http://api.ipinfodb.com y obtener una clave y cambiar el valor de $_key en la clase (application/libraries/Geoip)
 
 ####IMPORTANT
-You must first create an free account in http://api.ipinfodb.com and obtain a key and change the value of $_key in the class
+You must first create an free account in http://api.ipinfodb.com and obtain a key and change the value of $_key in the class (application/libraries/Geoip)
 
 Load the library.
 ```
